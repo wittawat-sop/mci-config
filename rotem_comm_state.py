@@ -1,0 +1,12 @@
+import enum
+
+class rotem_comm_state(enum.Enum):
+	ROTEM_IDLE			= 0
+	WAIT_BARN_NO 		= 200
+	WAIT_PC_TX 			= 203
+	WAIT_ROTEM_RESP 	= 202
+	READ_STATUS_9E_83 	= 100
+	READ_STATUS_82 		= 101
+	READ_STATUS_OTHER 	= 102
+	READ_ALARM 			= 103
+	WAIT_SEND_NOT_REPLY	= 50
