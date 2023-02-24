@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/arrow-up-from-bracket-solid.svg</file>
+    <file>icons/circle-down-solid.svg</file>
+    <file>icons/circle-up-solid.svg</file>
+    <file>icons/display-solid.svg</file>
+    <file>icons/download-solid.svg</file>
+    <file>icons/gear-solid.svg</file>
+    <file>icons/list-solid.svg</file>
+    <file>icons/magnifying-glass-solid.svg</file>
+    <file>icons/microchip-solid.svg</file>
+    <file>icons/network-wired-solid.svg</file>
+    <file>icons/plug-circle-check-solid.svg</file>
+    <file>icons/plug-circle-xmark-solid.svg</file>
+    <file>icons/right-left-solid.svg</file>
+    <file>icons/right-to-bracket-solid.svg</file>
+    <file>icons/shuffle-solid.svg</file>
+    <file>icons/trash-solid.svg</file>
+    <file>icons/warehouse-solid.svg</file>
+  </qresource>
+</RCC>
